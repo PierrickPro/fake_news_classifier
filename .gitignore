@@ -1,0 +1,6 @@
+
+.DS_Store
+models/bert.pkl
+*.pkl
+bert-sklearn
+bert_sklearn.log
